@@ -4,6 +4,9 @@ This repository contains code for homework 2 of 598APE.
 
 In particular, this repository is an implementation of Symbolic Regression and the various contexts it can be used in.
 
+The code changes are documented throughout the repo with comments like ```// Optimization 1```. 
+The unoptimized version can be fetched from commit ```f19cc633664c9a333b208049770424d58d14909e``` for comparison.
+
 To compile the program run:
 ```bash
 make -j
